@@ -1,6 +1,6 @@
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
-[lalt]>[rwin]
+[lalt]>[lctrl]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
 [delete]>[lalt]
